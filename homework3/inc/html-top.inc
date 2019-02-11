@@ -11,5 +11,5 @@
 
 <body>
 <div class="banner"><div class="title"></div></div>
-<header></header>
-<div class = "container">
+
+

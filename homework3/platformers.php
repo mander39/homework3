@@ -1,4 +1,6 @@
 <?php include 'inc/html-top.inc'; ?>
+<?php include 'inc/nav.inc'; ?>
+
 <img src="images/platformbanner.png" alt="logos" class="center">
 <h1>Video Game Platformers</h1>
 <p> Platformers are a genre of videogame that came to be in the early 80s.They are characterized by having stylized and iconic main characters and gameplay mechanics that involve jumping and avoiding obstacles. The have existed in both 2D and 3D forms and have spanned all generations of video game hardware since their inception. </p>
@@ -149,6 +151,4 @@
 
 <footer class= "slant">Luke Oluoch - In-class Lab 3: Markdown and Information Architecture<br>Content from Wikipedia  - retrieved 02/06/2019</footer>
 
-</body>
-
-</html>
+<?php include 'inc/html-bottom.inc'; ?>

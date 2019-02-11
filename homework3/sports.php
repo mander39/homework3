@@ -1,4 +1,6 @@
 <?php include 'inc/html-top.inc'; ?>
+<?php include 'inc/nav.inc'; ?>
+
 <img src="images/banner2.png" alt="lebron james" class="center">
 
 <h1>American Sports Leagues</h1>
@@ -35,6 +37,5 @@
 <p>The NBA has an average attendance per game of 17,884 per game per team, and has a yearly revenue of $5.2 Billion. The Boston Celtics currently lead the league in championships 17, followed closely by the Los Angeles Lakers with 16 wins.</p>
 </div>
 <footer class= "slant">Michael Anderson - In-class Lab 3: Markdown and Information Architecture<br>Content from Wikipedia  - retrieved 02/06/2019</footer>
-</body>
 
-</html>
+<?php include 'inc/html-bottom.inc'; ?>

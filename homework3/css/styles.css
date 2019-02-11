@@ -119,6 +119,11 @@ a{
   margin: 1px;
   padding: 10px;
 }
+.nav ul li a:hover{
+  background-color:#c9e6ec;
+  color:black;
+ 
+}
 .is-current {
   background-color:  #304549;
   color: white;

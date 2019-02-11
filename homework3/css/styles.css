@@ -118,9 +118,11 @@ a{
   border: black 1px solid;
   margin: 1px;
   padding: 10px;
+  border-radius: 7px;
+  background-color: #acc4ca;
 }
 .is-current {
-  background-color:  #304549;
+  background-color:  #304549 !important;
   color: white;
   padding: 10px;
   font-weight: bold;

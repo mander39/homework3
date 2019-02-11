@@ -105,3 +105,29 @@ p {
     margin-bottom: 10px;
     margin-top: 10px;
 }
+.nav{
+text-align: center;
+}
+.nav ul{
+list-style: none;
+
+}
+a{
+  color: black;
+}
+.nav ul li {
+  display: inline-block;
+  
+}
+.nav ul li a{
+  text-decoration: none; 
+  border: black 1px solid;
+  margin: 1px;
+  padding: 10px;
+}
+.is-current {
+  background-color:  #304549;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+}

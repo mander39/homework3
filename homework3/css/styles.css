@@ -143,6 +143,7 @@ a{
 @media  (max-width: 600px) {
   .nav ul li {
     display: grid;
+    padding-right: 30px;
   }
 }
 

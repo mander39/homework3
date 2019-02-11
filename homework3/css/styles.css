@@ -140,6 +140,11 @@ a{
   margin-top: -16px;
   
 }
+@media  (max-width: 600px) {
+  .nav ul li {
+    display: grid;
+  }
+}
 
 .homepage {
 

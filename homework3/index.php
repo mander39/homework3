@@ -15,6 +15,17 @@
     <p> Platformers are a genre of videogame that came to be in the early 80s.They are characterized by having stylized and iconic main characters and gameplay mechanics that involve jumping and avoiding obstacles. The have existed in both 2D and 3D forms and have spanned all generations of video game hardware since their inception. </p>
 
 </a>
+    
+<a href ="parks.php">
+    <h2 class="homepage">National Parks</h2>
+    <img src="images/parksimage.jpg" alt="parks" class="center">
+    <p>
+		A national park is a park in use for conservation purposes. Often it is a reserve of natural, semi-natural, or developed land that a sovereign state declares or owns. Although individual nations designate their own national parks differently, there is a common idea: the conservation of 'wild nature' for posterity and as a symbol of national pride. An international organization, the International Union for Conservation of Nature (IUCN), and its World Commission on Protected Areas (WCPA), has defined "National Park" as its Category II type of protected areas.
+
+		The United States has many National Parks -- areas set aside for preservation, often for their natural beauty. These areas make popular tourist attractions, both for their historical value and for their hiking and camping attractions. I've been lucky enough to visit a few national parks, some of them are listed below.
+	</p>
+</a>
+
 </div>
 
 <footer class= "slant">Team Timbuktu - In-class Lab 3: Markdown and Information Architecture</footer>

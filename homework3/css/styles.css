@@ -103,7 +103,8 @@ list-style: none;
 padding-top: 14px;
 }
 a{
-  color: black;
+  color: black; 
+  text-decoration: none;
 }
 .nav ul li {
   display: inline-block;
@@ -127,9 +128,9 @@ a{
 	background-color: #99b8bf;
 	min-height: 50px;
 	margin-top: -16px;
-
+}
 
 .homepage {
-  text-decoration: none;
+
   text-align: center;
 }

@@ -15,7 +15,7 @@
     <p> Platformers are a genre of videogame that came to be in the early 80s.They are characterized by having stylized and iconic main characters and gameplay mechanics that involve jumping and avoiding obstacles. The have existed in both 2D and 3D forms and have spanned all generations of video game hardware since their inception. </p>
 
 </a>
-
+</div>
 
 <footer class= "slant">Team Timbuktu - In-class Lab 3: Markdown and Information Architecture</footer>
 

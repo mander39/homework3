@@ -113,14 +113,15 @@ list-style: none;
 
 }
 a{
-  color: black;
+  color: black; 
+  text-decoration: none;
 }
 .nav ul li {
   display: inline-block;
   
 }
 .nav ul li a{
-  text-decoration: none; 
+  
   border: black 1px solid;
   margin: 1px;
   padding: 10px;
@@ -130,4 +131,9 @@ a{
   color: white;
   padding: 10px;
   font-weight: bold;
+}
+.homepage{
+  text-decoration: none;
+  text-align: center;
+  tex
 }

@@ -11,6 +11,8 @@
 	padding-right: 20px;
 	padding-bottom: 20px;
 	box-shadow: 10px 0 15px -4px rgba(0, 0, 0, 0.2), -10px 0 8px -4px rgba(0, 0, 0, 0.2);;
+  border-radius: 30px;
+
 }
 
 .banner {
@@ -62,6 +64,7 @@ background-color: #99b8bf;
 	padding-bottom: 20px;
 	font-style: italic;
 	text-align: center;
+  margin-top: 20px;
 }
 
 h1 {

@@ -127,4 +127,9 @@ a{
 	background-color: #99b8bf;
 	min-height: 50px;
 	margin-top: -16px;
+
+
+.homepage {
+  text-decoration: none;
+  text-align: center;
 }

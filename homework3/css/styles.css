@@ -118,6 +118,8 @@ a{
   border: black 1px solid;
   margin: 1px;
   padding: 10px;
+  border-radius: 7px;
+  background-color: #acc4ca;
 }
 .nav ul li a:hover{
   background-color:#c9e6ec;
@@ -125,7 +127,7 @@ a{
  
 }
 .is-current {
-  background-color:  #304549;
+  background-color:  #304549 !important;
   color: white;
   padding: 10px;
   font-weight: bold;
